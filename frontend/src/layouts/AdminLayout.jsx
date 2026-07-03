@@ -17,4 +17,4 @@ function AdminLayout({ children }) {
   );
 }
 
-export default AdminLayout;
+export default AdminLayout; 
