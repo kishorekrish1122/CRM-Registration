@@ -1,6 +1,8 @@
 const express = require("express");
 const dotenv = require("dotenv");
 const cors = require("cors");
+
+const API_URL = "http://localhost:5000"; 
 const path = require("path");
 
 const connectDB = require("./config/db");
